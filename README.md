@@ -57,7 +57,7 @@ Timer de 1s - R1 de 900 KΩ
 
 Timer de 3s - R1 de 2.7 MΩ
 
-![Figura 3](https://raw.githubusercontent.com/Matheus-Souza-Rozendo/circuito-eletronico-para-carregamento-de-pilhas-de-litio/main/images/image3.png)
+![Figura 2](https://raw.githubusercontent.com/Matheus-Souza-Rozendo/circuito-eletronico-para-carregamento-de-pilhas-de-litio/main/images/image2.png)
 
 ## CIRCUITO DIGITAL
 Segue o link para baixar a simulação feita no  software circuitMaker
